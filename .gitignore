@@ -1,0 +1,8 @@
+# My .gitignore file
+
+*.log
+*.log.*
+
+/nbproject/private/
+/build/
+/dist/
